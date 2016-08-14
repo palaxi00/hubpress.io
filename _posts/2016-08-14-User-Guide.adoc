@@ -1,0 +1,4 @@
+= User Guide
+Doc Writer <doc.writer@asciidoc.org>
+2012-01-01
+:appversion: 1.0.0
